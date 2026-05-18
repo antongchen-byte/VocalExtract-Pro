@@ -1,0 +1,5 @@
+{
+  "name": "VocalExtract",
+  "description": "Extract text from video clips and export as TXT or Word documents using Gemini AI.",
+  "requestFramePermissions": []
+}
